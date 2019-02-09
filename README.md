@@ -1,0 +1,2 @@
+Managed via GNU Stow
+
